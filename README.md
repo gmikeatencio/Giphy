@@ -1,1 +1,1 @@
-# InterviewGame
+# InterviewTrivia
